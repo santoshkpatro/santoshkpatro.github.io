@@ -1,0 +1,19 @@
+baseURL = 'https://santoshkpatro.com'
+languageCode = 'en-us'
+title = 'Santosh Kumar Patro'
+theme = 'paper'
+
+[params]
+  # color
+  color = 'linen'
+  
+  # header social icons
+  twitter = 'santoshkpatro11'               # twitter.com/YOUR_TWITTER_ID
+  github = 'santoshkpatro'                 # github.com/YOUR_GITHUB_ID
+  linkedin = 'santoshkpatro'
+  rss = true
+
+# home page profile
+  avatar = 'https://gravatar.com/avatar/cf09ffd45611e5c4858f3dfd08e9a949cbe59e9d82ad2b903951965140f08dd3'    # gravatar email or image url
+  name = 'Santosh Kumar Patro'
+  bio = 'Simple polyglot developer busy building cool stuff.'
